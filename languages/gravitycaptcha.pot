@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gravitycaptcha\n"
+"POT-Creation-Date: 2021-12-18 22:33+0530\n"
+"PO-Revision-Date: 2021-12-18 22:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: Zerozen\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-gc-field.php:12 class-gravitycaptcha-addon.php:505
+msgid "Gravity Captcha"
+msgstr ""
+
+#: class-gc-field.php:159
+msgid "Captcha Expired. Refresh the Form."
+msgstr ""
+
+#: class-gc-field.php:167
+msgid "Incorrect Response to Captcha"
+msgstr ""
+
+#: class-gravitycaptcha-addon.php:128
+msgid "Entry Marked as Spam"
+msgstr ""
+
+#: class-gravitycaptcha-addon.php:160 class-gravitycaptcha-addon.php:470
+msgid "Spam Submissions"
+msgstr ""
+
+#: class-gravitycaptcha-addon.php:180
+msgid "Was this entry a spam? Click here to report"
+msgstr ""
+
+#: class-gravitycaptcha-addon.php:189
+msgid "Gravity Captcha Spam Report Link URL"
+msgstr ""
+
+#: class-gravitycaptcha-addon.php:190
+msgid "Gravity Captcha Spam Report Link"
+msgstr ""
